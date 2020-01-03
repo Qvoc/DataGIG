@@ -1,0 +1,76 @@
+{
+	"Game": {
+		"genre": [
+			"Simulation",
+			"Arcade",
+			"Endless runner",
+			"Platformer",
+			"Puzzle",
+			"Adventure",
+			"Racing",
+			"Stealth",
+			"Action",
+			"Comedy"
+		],
+		"goal": [
+			"Survive",
+			"Escape",
+			"Use all resources",
+			"Destroy objects",
+			"Rescue",
+			"Collect items",
+			"Deliver items",
+			"Kill monsters",
+			"Get points",
+			"Become stronger"
+		],
+		"camera_movement": [
+			"Vertical",
+			"Horizontal",
+			"Zigzag",
+			"Static",
+			"Diagonal",
+			"Phone movement",
+			"First person",
+			"Second person",
+			"Third person",
+			"Rotate around"
+		],
+		"touch_mechanic": [
+			"Left - right",
+			"Hold - release",
+			"Swipe up",
+			"Swipe down",
+			"Swipe from all directions",
+			"Tap",
+			"Hold",
+			"Up - down",
+			"Free draw",
+			"Double tap"
+		],
+		"theme": [
+			"Supernatural",
+			"Swarm",
+			"On / off",
+			"Indirect interaction",
+			"Sticky",
+			"They're coming",
+			"1 HP",
+			"You are what you eat",
+			"One button, two functions",
+			"60 seconds"
+		],
+		"environment": [
+			"Ocean / sea",
+			"Natural disaster",
+			"City",
+			"House",
+			"Space",
+			"Jungle",
+			"Everyday life",
+			"Supermarket",
+			"Invasion",
+			"Abstract"
+		]
+	}
+}
