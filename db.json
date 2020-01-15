@@ -10,7 +10,8 @@
 			"Racing",
 			"Stealth",
 			"Action",
-			"Comedy"
+			"Comedy",
+			"Match"
 		],
 		"goal": [
 			"Survive",
@@ -22,19 +23,15 @@
 			"Deliver items",
 			"Kill monsters",
 			"Get points",
-			"Become stronger"
+			"Become stronger",
+			"Dodge"
 		],
 		"camera_movement": [
 			"Vertical",
 			"Horizontal",
 			"Zigzag",
 			"Static",
-			"Diagonal",
-			"Phone movement",
-			"First person",
-			"Second person",
-			"Third person",
-			"Rotate around"
+			"Diagonal"
 		],
 		"touch_mechanic": [
 			"Left - right",
@@ -45,11 +42,9 @@
 			"Tap",
 			"Hold",
 			"Up - down",
-			"Free draw",
 			"Double tap"
 		],
 		"theme": [
-			"Supernatural",
 			"Swarm",
 			"On / off",
 			"Indirect interaction",
@@ -58,7 +53,8 @@
 			"1 HP",
 			"You are what you eat",
 			"One button, two functions",
-			"60 seconds"
+			"60 seconds",
+			"Projectiles"
 		],
 		"environment": [
 			"Ocean / sea",
