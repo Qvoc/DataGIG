@@ -11,7 +11,8 @@
 			"Stealth",
 			"Action",
 			"Comedy",
-			"Match"
+			"Reaction",
+			"Party"
 		],
 		"goal": [
 			"Survive",
@@ -24,7 +25,20 @@
 			"Kill monsters",
 			"Get points",
 			"Become stronger",
-			"Dodge"
+			"Dodge",
+			"Connecting",
+			"Hit target",
+			"Build",
+			"Jump",
+			"Roll",
+			"Shoot",
+			"Fit",
+			"Bounce",
+			"Spam",
+			"Search",
+			"Aim",
+			"Finish",
+			"Control"
 		],
 		"camera_movement": [
 			"Vertical",
@@ -54,19 +68,27 @@
 			"You are what you eat",
 			"One button, two functions",
 			"60 seconds",
-			"Projectiles"
+			"Projectiles",
+			"Connecting",
+			"Relatable",
+			"Physics",
+			"Too easy"
 		],
 		"environment": [
 			"Ocean / sea",
 			"Natural disaster",
 			"City",
 			"House",
-			"Space",
+			"Outer space",
 			"Jungle",
 			"Everyday life",
 			"Supermarket",
 			"Invasion",
-			"Abstract"
+			"Abstract",
+			"Magical place",
+			"Beach",
+			"Airplane",
+			"Farm"
 		]
 	}
 }
